@@ -11,3 +11,5 @@ faster-whisper>=1.0.0
 kokoro-onnx>=0.6.0
 onnxruntime>=1.17.0
 numpy>=1.26.0
+edge-tts>=6.1.10
+requests>=2.31.0

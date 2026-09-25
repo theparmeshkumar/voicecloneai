@@ -36,5 +36,15 @@ def main():
     else:
         print(f"voices-v1.0.bin already exists at: {voices_path}")
 
+    # Pre-cache Faster-Whisper model for zero-latency first audio request
+    try:
+        print("Pre-caching Faster-Whisper tiny model...")
+        from faster_whisper import WhisperModel
+        WhisperModel("tiny", device="cpu", compute_type="int8")
+        print("Faster-Whisper model cached successfully!")
+    except Exception as e:
+        print(f"Faster-Whisper pre-cache note: {e}")
+
 if __name__ == "__main__":
     main()
+
