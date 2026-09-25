@@ -22,6 +22,9 @@
   <a href="#-open-collaboration-call">Call for Collaboration</a>
 </p>
 
+![Architecture and Workflow](ArchitectureandWorkflow.png)
+![Preview0](VoiceCloneAI.png)
+
 </div>
 
 ---
