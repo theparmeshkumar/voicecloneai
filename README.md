@@ -11,7 +11,7 @@
 
 **Created & Maintained by [Parmesh Kumar](https://github.com/theparmeshkumar)**
 
-**[🔗Live Link](theparmeshkumar/voiceclonerender)**
+**Live Link [🔗VoiceClone AI Studio](theparmeshkumar/voiceclonerender)**
 
 <p align="center">
   <a href="#-project-overview">Overview</a> •
