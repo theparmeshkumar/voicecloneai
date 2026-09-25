@@ -11,6 +11,8 @@
 
 **Created & Maintained by [Parmesh Kumar](https://github.com/theparmeshkumar)**
 
+**[🔗Live Link](theparmeshkumar/voiceclonerender)**
+
 <p align="center">
   <a href="#-project-overview">Overview</a> •
   <a href="#-architectural-pipeline--models-deep-dive">Models & Architecture</a> •
@@ -346,5 +348,5 @@ This project is licensed under the **MIT License** — you are free to use, modi
 ---
 
 <div align="center">
-  <sub>Built with ❤️ by <a href="https://github.com/theparmeshkumar">Parmesh Kumar</a>. If you find this project useful or interesting, please give it a ⭐ on GitHub!</sub>
+  <sub>Built with passion and learnings by <a href="https://github.com/theparmeshkumar">Parmesh Kumar</a>. If you find this project useful or interesting, please give it a ⭐ on GitHub!</sub>
 </div>
